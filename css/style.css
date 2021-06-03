@@ -1,0 +1,30 @@
+body{
+    background-image: url("../images/bg-image.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+img{
+    width: 80px;
+}
+
+.input-group{
+    width: 70%;
+    text-align: center;
+    margin-left: 15%;
+    padding: 5%;
+}
+
+#show-details {
+    overflow: hidden;
+    display: none;
+    width: 400px;
+    background: #594646;
+    padding: 10px;
+    text-align: center;
+    color: #dfd6d6;
+    margin: auto;
+    box-shadow: 0px 1px 10px 5px white;
+    border-radius: 10px;
+}
